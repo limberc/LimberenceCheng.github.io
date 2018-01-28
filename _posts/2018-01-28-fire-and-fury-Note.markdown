@@ -12,6 +12,8 @@ This is an unofficial summary of the first year that President Trump took office
 
 But I think this book is unreliable, it can be described as a collection of gossip.
 
+This article have Chinese Version. If you are interested in this, don't hesitate to connect me.
+
 ## Core content
 
 1. **What kind of person is Trump in the end?**
