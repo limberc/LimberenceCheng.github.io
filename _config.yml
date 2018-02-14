@@ -11,8 +11,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Limber Cheng # add your name
 author-img: limber.jpg # add your photo
 about-author: I am a Data Scientist, focusing on data mining, machine learning, and deep learning.
-twitter: # add your Twitter handle
-facebook: # add your Facebook handle
 github: LimberenceCheng # add your Github handle
 linkedin: limbercheng
 email: cheng@limberence.com
