@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Real life data science
-date: 2018-1-28 19:39:09
+date: 2018-2-14 10:39:09
 description: This article covered the common pitfalls and protections from them in data analysis. 
 img: data-science.jpg
 tags: [Notes]
